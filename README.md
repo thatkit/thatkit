@@ -4,7 +4,7 @@ My native language is Russian and I'm also fluent in English and Japanese.
 *I hope you can find my works somewhat interesting. In that case (and other cases as well), feel free to contact me!*
 
 ### Experience
-**6 months** of learning and developing
+**7 months** of learning and developing
 
 ### Languages and tools
 1. HTML5 & CSS3 (SASS, Bootstrap4);
