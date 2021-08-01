@@ -8,8 +8,10 @@ My native language is Russian and I'm also fluent in English and Japanese.
 
 ### Languages and tools
 1. HTML5 & CSS3 (SASS, Bootstrap4);
-2. JavaScript ES6/ES8;
-3. Figma, Adobe Illustrator.
+2. JavaScript (ES6/ES8, AJAX);
+3. Git & Github;
+4. Figma, Adobe Illustrator.
+*Learning now:* jQuery, JS libraries.
 
 ### Location
 Russia, Vladivostok
