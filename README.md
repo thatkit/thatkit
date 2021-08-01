@@ -11,6 +11,7 @@ My native language is Russian and I'm also fluent in English and Japanese.
 2. JavaScript (ES6/ES8, AJAX);
 3. Git & Github;
 4. Figma, Adobe Illustrator.
+
 *Learning now:* jQuery, JS libraries.
 
 ### Location
