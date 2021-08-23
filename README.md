@@ -12,7 +12,7 @@ My native language is Russian and I'm also fluent in English and Japanese.
 3. Git & Github;
 4. Figma, Adobe Illustrator.
 
-*Learning now:* jQuery, JS libraries.
+*Learning now:* React, jQuery and other JS libraries.
 
 ### Location
 Russia, Vladivostok
