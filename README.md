@@ -4,13 +4,15 @@ My native language is Russian and I'm also fluent in English and Japanese.
 *I hope you can find my works somewhat interesting. In that case (and other cases as well), feel free to contact me!*
 
 ### Experience
-**8 months** of learning and developing
+**9 months** of learning and developing
 
 ### Languages and tools
-1. HTML5 & CSS3 (SASS, Bootstrap4);
-2. JavaScript (ES6/ES8, AJAX, JQuery);
-3. Git & Github;
-4. Figma, Adobe Illustrator.
+1. HTML5;
+2. CSS3 (SASS, Bootstrap4);
+3. JavaScript (ES6/ES8, AJAX, JQuery);
+4. React.js;
+5. Git & Github;
+6. UIUX (Figma, Adobe Illustrator).
 
 *Learning now:* React.js.
 
