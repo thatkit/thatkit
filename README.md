@@ -14,7 +14,7 @@ My native language is Russian and I'm also fluent in English and Japanese.
 5. Git & Github;
 6. UIUX (Figma, Adobe Illustrator).
 
-*Learning now:* React.js.
+*Learning now:* MERN stack.
 
 ### Location
 Russia, Vladivostok
