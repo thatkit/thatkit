@@ -15,7 +15,7 @@ My native language is Russian and I'm also fluent in English and Japanese.
 
 #### Frontend
 1. Styling (SASS, Bootstrap, reactstrap);
-2. Framework (React.js);
+2. Framework (React.js + Redux);
 
 #### UI/UX
 1. Figma;
