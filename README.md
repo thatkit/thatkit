@@ -19,7 +19,7 @@
 1. Node.js, Express.js.
 
 ### Soft skils
-1. English (C1) and Japanese (N2) fluent;
+1. English (C1) and Japanese (N2 = C1) fluent. Russian native;
 
 *Learning now:* MERN stack.
 
