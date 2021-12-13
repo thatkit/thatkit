@@ -1,4 +1,4 @@
-👋 Hi, I’m [Nikita](https://github.com/thatkit). You can find some of my completed projects in the repos. **10 months** of learning and developing.
+👋 Hi, I’m [Nikita](https://github.com/thatkit). You can find some of my completed projects in the repos. **11 months** of learning and developing.
 
 ### Hard skills
 
@@ -9,7 +9,7 @@
 
 #### Frontend
 1. Styling (SASS, Bootstrap, reactstrap);
-2. Framework (React.js + Redux);
+2. Framework (React.js, ReduxToolkit: createAsyncThunk, etc.);
 
 #### UI/UX
 1. Figma;
