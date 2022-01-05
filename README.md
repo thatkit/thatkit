@@ -1,4 +1,4 @@
-👋 Hi, I’m [Nikita](https://github.com/thatkit). You can find some of my completed projects in the repos. **11 months** of learning and developing.
+👋 Hi, I’m [Nikita](https://github.com/thatkit). You can find some of my completed projects in the repos. **1 year** of learning and developing.
 
 ### Hard skills
 
@@ -9,19 +9,19 @@
 
 #### Frontend
 1. Styling (SASS, Bootstrap, reactstrap);
-2. Framework (React.js, ReduxToolkit: createAsyncThunk, etc.);
+2. Framework (React.js, React.Router, Hooks);
+3. State management (Redux: Toolkit, createAsyncThunk()).
 
 #### UI/UX
 1. Figma;
 2. Adobe Illustrator.
 
 #### Backend
-1. Node.js, Express.js.
+1. Node.js, Express.js;
+2. PostgreSQL, MongoDB.
 
 ### Soft skils
 1. English (C1) and Japanese (N2 = C1) fluent. Russian native;
-
-*Learning now:* MERN stack.
 
 ### Location
 Russia, Vladivostok
