@@ -2,28 +2,28 @@
 
 
 ### Pet projects
-0 (in process) Expense-tracker (MERN, Redux Toolkit, auth)
+0 (in process) Expense-tracker (**MERN**, **Redux Toolkit**, **auth**)
 CURRENTLY UNDER DEVELOPMENT
 GITHUB: https://github.com/thatkit/xpense-tracker
 
-1. MERN shopping list (MERN, Redux Toolkit)
+1. MERN shopping list (**MERN**, **Redux Toolkit**)
 DEPLOYMENT: https://fast-chamber-32404.herokuapp.com/
 GITHUB: https://github.com/thatkit/mern-shopping-list
 
-2. Weather App (React + Express.js for 3rd party API calls, DigitalOcean setting with nginx and ssl for HTTPS)
+2. Weather App (**React** + **Express.js** for 3rd party API calls, **DigitalOcean setting with nginx and ssl for HTTPS**)
 DEPLOYMENT: https://www.weather-for-coordinates.xyz/
 GITHUB: https://github.com/thatkit/weather-app-1
 GITHUB: https://github.com/thatkit/weather-app-1-prod
 
-3. React Task Manager
+3. React Task Manager (**React.js**)
 DEPLOYMENT: localhost
 GITHUB: https://github.com/thatkit/task-manager-1
 
-4. Snake game (Vanilla JS)
+4. Snake game (**Vanilla JS**, **Canvas API**)
 DEPLOYMENT: https://thatkit.github.io/snake-game/
 GITHUB: https://github.com/thatkit/snake-game
 
-5. Personal portfolio - very basic and old version (HTML, CSS, Vanilla JS)
+5. Personal portfolio - very basic and old version (**HTML, CSS, Vanilla JS**)
 DEPLOYMENT: https://thatkit.github.io/home/
 GITHUB: https://github.com/thatkit/home
 
