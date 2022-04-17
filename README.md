@@ -1,9 +1,8 @@
-👋 Hi, I’m [Nikita](https://github.com/thatkit). You can find some of my completed projects in the repos.
+👋 Hi, I’m [Nikita](https://github.com/thatkit). You can find some of my completed projects in the pinned repos.
 
-📚learning TS, GraphQL, NestJS
+📚learning TS, GraphQL, NestJS, MobX, Stylus
 
-
-# Pet projects are mostly in pinned repos
+## Check the pinned repos for pet projects!
 
 ### Hard skills
 
