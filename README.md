@@ -12,23 +12,19 @@
 3. Git & Github;
 
 #### Frontend
-1. Styling (SASS, Bootstrap, reactstrap);
+1. Styling (SASS, Bootstrap, reactstrap, Stylus);
 2. Framework (React.js, React.Router, Hooks);
-3. State management (Redux: Toolkit, createAsyncThunk()).
+3. State management (Redux: Toolkit, createAsyncThunk(), RTK Query & Mutation).
 
 #### UI/UX
-1. Figma;
-2. Adobe Illustrator.
+Figma, Adobe Illustrator.
 
 #### Backend
-1. Node.js, Express.js;
+1. Node.js, Express.js, Nest.js;
 2. PostgreSQL, MongoDB.
 
 ### Soft skils
-1. English (C1) and Japanese (N2 = C1) fluent. Russian native;
-
-### Location
-Russia, Vladivostok
+English (C1) and Japanese (N2 = C1) fluent. Russian native.
 
 ### Contacts
 [E-mail](mailto:emper137137@gmail.com?subject=[GitHub]%20Hello%20Nikita)
