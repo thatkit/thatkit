@@ -3,33 +3,7 @@
 📚learning TS, GraphQL, NestJS
 
 
-### Pet projects
-#### Expense-tracker (**MERN**, **Redux Toolkit**, **React Router**, **auth**)
-
-RECENTLY DEPLOYED
-
-:rocket:[DEPLOYMENT](https://xpense-tracker-1.herokuapp.com/) :octocat:[GITHUB](https://github.com/thatkit/xpense-tracker)
-
-#### MERN shopping list (**MERN**, **Redux Toolkit**)
-
-:rocket:[DEPLOYMENT](https://fast-chamber-32404.herokuapp.com/) :octocat:[GITHUB](https://github.com/thatkit/mern-shopping-list)
-
-#### Weather App (**React** + **Express.js** for 3rd party API calls, **DigitalOcean setting with nginx and ssl for HTTPS**)
-
-:rocket:[DEPLOYMENT](https://www.weather-for-coordinates.xyz/) :octocat:[GITHUB 1](https://github.com/thatkit/weather-app-1) :octocat:[GITHUB 2](https://github.com/thatkit/weather-app-1-prod)
-
-#### React Task Manager (**React.js**)
-
-DEPLOYMENT: localhost
-:octocat:[GITHUB](https://github.com/thatkit/task-manager-1)
-
-#### Snake game (**Vanilla JS**, **Canvas API**)
-
-:rocket:[DEPLOYMENT](https://thatkit.github.io/snake-game/) :octocat:[GITHUB](https://github.com/thatkit/snake-game)
-
-#### Personal portfolio - very basic and old version (**HTML, CSS, Vanilla JS**)
-
-:rocket:[DEPLOYMENT](https://thatkit.github.io/home/) :octocat:[GITHUB](https://github.com/thatkit/home)
+# Pet projects are mostly in pinned repos
 
 ### Hard skills
 
