@@ -1,6 +1,6 @@
 👋 Hi, I’m [Nikita](https://github.com/thatkit). You can find some of my completed projects in the pinned repos.
 
-📚learning TS, GraphQL, NestJS, MobX, Stylus
+📚learning TypeScript, GraphQL, NestJS, MobX, Stylus
 
 ## Check the pinned repos for pet projects!
 
