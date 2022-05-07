@@ -2,7 +2,7 @@
 
 📚learning TypeScript, GraphQL, NestJS, Redis, MobX, Stylus
 
-## Check the pinned repos for pet projects!
+## Check the pinned repos for my projects!
 
 ### Hard skills
 
