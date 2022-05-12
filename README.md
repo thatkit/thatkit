@@ -1,8 +1,8 @@
-👋 Hi, I’m [Nikita](https://github.com/thatkit). **Check my projects in the pinned ones and other repos!**:octocat:
+👋 Hi, I’m [Nikita](https://github.com/thatkit). Cheers / Привет / おはよう! I'm a `full-stack` developer. 👋
 
-## Hard skills
+:octocat: **Check my projects in the pinned ones and other repos!** :octocat:
 
-Full-stack developer. Cheers / Привет / おはよう 👋
+## Skills
 
 :man_technologist:HARD SKILLS:
 - HTML5 / CSS3 / Javascript (CommonJS, ES) / Typescript;
