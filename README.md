@@ -1,30 +1,24 @@
-👋 Hi, I’m [Nikita](https://github.com/thatkit). You can find some of my completed projects in the pinned repos.
+👋 Hi, I’m [Nikita](https://github.com/thatkit). **Check my projects in the pinned ones and other repos!**:octocat:
 
-📚learning TypeScript, GraphQL, NestJS, Redis, MobX, Stylus
+## Hard skills
 
-## Check the pinned repos for my projects!
+Full-stack developer. Cheers / Привет / おはよう 👋
 
-### Hard skills
+:man_technologist:HARD SKILLS:
+- HTML5 / CSS3 / Javascript (CommonJS, ES) / Typescript;
+- NodesJS / ExpressJS / NestJS;
+- Rest API / GraphQL;
+- MongoDB / PostgreSQL;
+- TypeORM;
+- Redis;
+- Redux / Redux Async Thunk / RTKQ / MobX;
+- ReactJS / React Router;
+- SCSS / (S)CSS-modules / Bootstrap / Reactstrap;
+- Figma / Adobe Illustrator;
 
-#### Basics
-1. HTML5, CSS3;
-2. Vanilla JS (ES6/ES8, AJAX);
-3. Git & Github;
+:japan:SOFT SKILLS:
+- Japanese (日本語能力試験 N2 = proficient) / English (CAE C1 = proficient) / Russian (native);
+- Work eperience in blockchain, accounting, project management, sales, consulting;
 
-#### Frontend
-1. Styling (SASS, Bootstrap, reactstrap, Stylus);
-2. Framework (React.js, React.Router, Hooks);
-3. State management (Redux: Toolkit, createAsyncThunk(), RTK Query & Mutation).
-
-#### UI/UX
-Figma, Adobe Illustrator.
-
-#### Backend
-1. Node.js, Express.js, Nest.js;
-2. PostgreSQL, MongoDB.
-
-### Soft skils
-English (C1) and Japanese (N2 = C1) fluent. Russian native.
-
-### Contacts
+## Contacts
 [E-mail](mailto:emper137137@gmail.com?subject=[GitHub]%20Hello%20Nikita)
