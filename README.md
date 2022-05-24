@@ -12,7 +12,7 @@
 - TypeORM;
 - Redis;
 - Redux / Redux Async Thunk / RTKQ / MobX;
-- ReactJS / React Router;
+- ReactJS / Context API / React Router;
 - SCSS / (S)CSS-modules / Bootstrap / Reactstrap / Styled-components;
 - Figma / Adobe Illustrator / Pixel Perfect;
 
