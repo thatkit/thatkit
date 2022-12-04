@@ -5,7 +5,7 @@
 ## Skills
 
 :man_technologist: HARD SKILLS:
-- HTML5 / CSS3 / Javascript (CommonJS, ES) / Typescript;
+- HTML5 / CSS3 / Javascript / Typescript;
 - NodeJS / ExpressJS / NestJS;
 - Rest API / GraphQL;
 - MongoDB / PostgreSQL;
