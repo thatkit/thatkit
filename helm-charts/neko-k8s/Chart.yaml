@@ -1,0 +1,5 @@
+apiVersion: v2
+name: neko
+description: Share a web browser and react with friends
+type: application
+version: 0.7.0
